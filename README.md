@@ -23,14 +23,14 @@ Once Node is installed, navigate to the directory where you want to store the ap
 git clone
 https://github.com/B3nT3rry/MyReads.git then 
 
-run 
+ - run 
 npm install
 
 
 Once all of the dependencies have been installed you can launch the app with
 
 
-npm start
+ - npm start
 
 
 
@@ -43,7 +43,7 @@ navigate to [http://localhost:3000/](http://localhost:3000/) in your browser
 
 
 
-# Books are sorted into three categories: 
+### Books are sorted into three categories: 
 	
 	- Currently Reading
 	
@@ -52,7 +52,7 @@ navigate to [http://localhost:3000/](http://localhost:3000/) in your browser
 	- Read
 
 
-# To move the book to a different shelf click on the green button to open a pop out where you can choose from 
+### To move the book to a different shelf click on the green button to open a pop out where you can choose from 
 the following categories
 	
 	- None
@@ -64,7 +64,7 @@ the following categories
 	- Read  
 
 
-# To add any new books you will need to click on the green + button at the bottom of the page. This will open
+### To add any new books you will need to click on the green + button at the bottom of the page. This will open
 up the Search bar where you can enter an author's name or subject. Up to 20 items will be returned.
 
 
